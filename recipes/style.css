@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(6, 77, 77);
+    color: rgba(255, 255, 255, 1);
+}
+.header {
+    font-weight: bold;
+    color: rgb(31, 196, 196);
+    font-size: 66px;
+    text-align: center;
+}
+img {
+    width: 450px;
+    height: auto;
+}
+
+ul {
+    font-size: 35px;
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+a {
+    color: rgb(49, 207, 207);
+}
+ol {
+    font-size: 25px;
+    text-align: justify;
+}
+
+div#recipes {
+    
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.things {
+    text-align: left;
+}
