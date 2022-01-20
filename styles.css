@@ -1,7 +1,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color:rgb(6, 77, 77)
+    background-color: rgb(0, 66, 66);
 }
 .header {
     font-weight: bold;
@@ -13,9 +13,20 @@ img {
     width: 450px;
     height: auto;
 }
+h1 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(45deg,rgb(22, 252, 1), rgb(0, 204, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+  }
 
 ul {
     font-size: 35px;
+}
+li {
+    background: -webkit-linear-gradient(45deg,rgb(255, 0, 0), rgb(0, 59, 253));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
 }
 div {
     text-align: center;
